@@ -1,0 +1,8 @@
+Bundle 'c-brenn/phoenix.vim'
+Bundle 'tpope/vim-projectionist'
+Bundle 'powerman/vim-plugin-AnsiEsc'
+Bundle 'vim-scripts/Conque-Shell'
+Bundle 'ludovicchabant/vim-gutentags'
+Bundle 'neomake/neomake'
+Bundle 'arcticicestudio/nord-vim'
+Bundle 'mhinz/vim-startify'
