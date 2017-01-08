@@ -13,6 +13,11 @@ let g:neomake_elixir_enabled_makers=['mix', 'mycredo']
 :nnoremap <leader>ev :vsplit ~/.vimrc.local<cr>
 :nnoremap <leader>sv :source ~/.vimrc.local<cr>
 
+map <Left> :echo "Nope!"<cr>
+map <Right> :echo "Nope!"<cr>
+map <Up> :echo "Nope!"<cr>
+map <Down> :echo "Nope!"<cr>
+
 :iabbrev adn and
 
 func! DeleteTrailingWS()
