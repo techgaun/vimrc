@@ -22,6 +22,9 @@ map <Down> :echo "Nope!"<cr>
 iabbrev adn and
 iabbrev @@ samar+oss@techgaun.com
 iabbrev ccopy Copyright 2017 techgaun, all rights reserved.
+iabbrev mysite http://www.techgaun.com
+iabbrev mygh https://github.com/techgaun
+iabbrev mytw https://twitter.com/techgaun
 
 func! DeleteTrailingWS()
   exe "normal mz"
