@@ -32,3 +32,5 @@ func! DeleteTrailingWS()
   exe "normal `z"
 endfunc
 au BufWrite * silent call DeleteTrailingWS()
+
+autocmd FileType elixir let g:NERDSpaceDelims = 1
